@@ -1,3 +1,7 @@
+## Ссылка на экраны в фигме:
+https://www.figma.com/design/UbuvYRiIjxk0NmgLaX0tqp/%D0%AD%D0%BA%D1%80%D0%B0%D0%BD%D1%8B-%D0%B4%D0%BB%D1%8F-bubble?node-id=0-1&t=7q97AEzMAvnk4c2E-1 
+
+
 ## Список экранов приложения
 
 | № | URL | Название | Доступ |
